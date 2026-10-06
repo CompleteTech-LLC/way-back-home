@@ -1,3 +1,5 @@
+> **About this copy.** This repository is an unmodified copy of Google's [Way Back Home](https://github.com/google-americas/way-back-home) workshop (snapshot of 20 March 2026), kept here for reference. It is not CompleteTech LLC's work; the content and its Apache-2.0 license belong to its authors. For the current version, use the upstream repository.
+
 # 🚀 Way Back Home
 
 ![Way Back Home](dashboard/frontend/public/prelude.png)
